@@ -1,5 +1,5 @@
 {
-  "name": "ethers",
+  "name": "@strafi/ethers",
   "common": {
     "ethereum": "donations.ethers.eth",
     "funding": [
